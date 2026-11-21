@@ -1,7 +1,7 @@
-# cybersecurity-learning-journey
+cybersecurity-learning-journey
 foundations
 
-***********NETOWRKING************
+********NETOWRKING********
 
 ***Subnetting***
 ***Wireshark**
