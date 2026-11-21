@@ -1,1 +1,29 @@
+Protocol
+A protocol is a set of rules, like traffic rules on the road. Everyone follows the same rules, so everything works.
 
+iP_internet-Protocol
+internet Protocol is the set of rules for sending data from one device to another on a network. 
+The IP address is only one part of it.
+
+why?,
+Imagine 1,000 different companies make phones, laptops, and routers. 
+If each one used its own rules, they could not talk to each other.
+IP gives one common rule to all of them. So any device can talk to any other device in the world.
+
+For-What?,
+Think about sending a big parcel by post
+Cut into small pieces. Big data is broken into small pieces called packets.
+Put the address on each piece. Each packet gets the sender's address and the receiver's address.
+Send. The packets travel through many routers, each one passing it forward.
+Join at the end. The receiver collects all the pieces.
+
+What-for?
+Opening websites
+WhatsApp and video calls
+YouTube and online games
+Email
+Everything on the internet
+
+What IP does NOT do?,
+IP only delivers. It does not check if the data arrived safely. 
+Another protocol, TCP, does that job. This is why we say TCP/IP together.
